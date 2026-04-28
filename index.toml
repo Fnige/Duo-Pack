@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
+hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/axes-are-weapons.pw.toml"
-hash = "88c26d536067e93c7bd5ea40071a23a2d9ce4688e9cd760eff8bbb6ec992d078"
+hash = "d148616971b70f19c29643611f815fcf258eeb142e31ee81252ddea6cf9fc4b1"
 metafile = true
 
 [[files]]
@@ -511,6 +511,10 @@ hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
+file = "mods/figura-0.1.5+1.21.1-neoforge-patched.jar"
+hash = "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc"
+
+[[files]]
 file = "mods/figura-sillyplugin.pw.toml"
 hash = "99caa593da4e5a5138c5d7352c32ad56e7b5685ca6c3ccf995b3bf3e4f207ccb"
 metafile = true
@@ -537,7 +541,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgiving-void.pw.toml"
-hash = "b3e2786cd6d151651aa8ddc6548bc8e8bb7f67a10884f9570608ea11fc1197f6"
+hash = "ad797a4747adf0a547aff1f6bdb0c99d27b96324356fd0420fe9167e526d7185"
 metafile = true
 
 [[files]]
@@ -572,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "mods/grabby-mobs.pw.toml"
-hash = "b246c3cd01516ddee34626592766543695a788e4134e3de7d89ad6ee998d553e"
+hash = "b673341af68086d2e541451fa1a1165883c33ed423122bd5f5bbc9ea0348ab30"
 metafile = true
 
 [[files]]
@@ -587,7 +591,7 @@ metafile = true
 
 [[files]]
 file = "mods/improved-village-placement.pw.toml"
-hash = "b4917d33f42660f3b77863324c8b331296212f8620f208cbf91f237fc11c25e0"
+hash = "d4643e7fd8fd1227500f19e6011b33b10ef09a543adccd790345f91f3d3fcff8"
 metafile = true
 
 [[files]]
@@ -677,7 +681,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f4778cef252c7032b8d42ddf79c9e671ddcca0a5878a46607346c30fef21c8e2"
+hash = "64d1fd7890d2fef58ceec90a88dfdb10165fe1214cc919051cbdea4b3ddfc1f6"
 metafile = true
 
 [[files]]
@@ -767,7 +771,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
-hash = "1e30fd8a340843c0415fe37e868b713e98ac6250670314c2ccce4d0d029e9b88"
+hash = "e2ff10979a12fe1cc0fa988201dd6e794352bc1e642dc886291c526d4631bd78"
 metafile = true
 
 [[files]]
@@ -777,7 +781,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "d424a9260ef51bc102e56f0423d91dfabb739ccca8a86eb1c450ea631b739280"
+hash = "b3e831b3e4d6ddbf23806b0fec6087eca264af1ebc04e747c89024972aaa8607"
 metafile = true
 
 [[files]]
@@ -862,7 +866,7 @@ metafile = true
 
 [[files]]
 file = "mods/random-shulker-colours.pw.toml"
-hash = "a5b5c55e51b610b9e5104a55cce2a489b9cd6a212338fdd0e3202c56a26904d2"
+hash = "74f0716635e9787d12ce3f0e07658719f4a9c2d0dbdaf9103d4d5ddfd62ff6d3"
 metafile = true
 
 [[files]]
@@ -937,7 +941,7 @@ metafile = true
 
 [[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
-hash = "5c2f6a415937be5e8d362bd5bf7565b5f16339c0bbaf71114b6b4bf3de9ced15"
+hash = "51a3f5c5cd0cc355f0230113ce733244c3d2fc3d7511bdee7f056f9949709591"
 metafile = true
 
 [[files]]
@@ -957,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulker-drops-two.pw.toml"
-hash = "7c00e81bb53135f5c50bc33bfa51062761d6cb27c7fee6b9880be377ae683434"
+hash = "3a7245737f7656eaed519074fa68ae7fd54dead6ba374ccb26f8021c4a7f04fa"
 metafile = true
 
 [[files]]
@@ -977,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/skys-flowers.pw.toml"
-hash = "04c2aff5afdf5a5083b8e8819059edb208c31b920729dc5ebd19b8773c35d907"
+hash = "9cc892e4e3fe1364dab7d749fbce43656475e2453850e3fab81e8486c380d7cf"
 metafile = true
 
 [[files]]
@@ -997,7 +1001,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "514dab7fee713bccf17296d21b4f25d9e67954a96e7de1a8b586b90ea00a2bed"
+hash = "82aedef3c457ffe51e27a4153aaf73ef7c073b87059a021495af487e41ed2e99"
 metafile = true
 
 [[files]]
@@ -1067,7 +1071,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "27fbafdc78a4a3cb8badb58078ec1f2837e65a5bbe5160e344b0fb3e779c9efe"
+hash = "20d767f7f803fd43e7b539046878bf97a27458595a1beff0b28002aca1b671de"
 metafile = true
 
 [[files]]
@@ -1122,7 +1126,7 @@ metafile = true
 
 [[files]]
 file = "mods/too-fast.pw.toml"
-hash = "63da0a2850babdf37f9511b17d2962fbaa9ce980d4c8478299767954df4efc19"
+hash = "49fb27f04c4ec26614fd121a7a8f7764d59949d0b6a3c32a63fb57fd2b3c8ea9"
 metafile = true
 
 [[files]]
