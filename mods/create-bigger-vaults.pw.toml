@@ -1,0 +1,13 @@
+name = "Create: Bigger Vaults"
+filename = "createbiggervaults-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bsbLCmiw/versions/ouWgvmte/createbiggervaults-1.0.0.jar"
+hash-format = "sha512"
+hash = "4ae14a1c3a395de4eb3d7d6ed3c93547d93bff247e14ebe7eb1e3a6c02bad457ec5adcb296e315d1abbe5e28cb6fd04577243547fa7c38603bad77e6bcc83477"
+
+[update]
+[update.modrinth]
+mod-id = "bsbLCmiw"
+version = "ouWgvmte"

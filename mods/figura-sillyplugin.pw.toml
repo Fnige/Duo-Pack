@@ -1,0 +1,13 @@
+name = "Figura SillyPlugin"
+filename = "sillyplugin-1.1.1-1.21.1-neoforge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2EdXcfN6/versions/WWGKulUO/sillyplugin-1.1.1-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "2db55a32aad32c571acd071fa58c13bbf5c0863b8dc3b944cc4c72ee14257e732522f0aad2811fa412517a4618c2b5a2b3a526db896423a5b4cddc0f3b2905a9"
+
+[update]
+[update.modrinth]
+mod-id = "2EdXcfN6"
+version = "WWGKulUO"

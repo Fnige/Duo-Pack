@@ -1,0 +1,13 @@
+name = "Lil Create Pack"
+author = "Fniges + 8ball"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d56bf9949cff40b8acded817f714ae26ba52c006492274c9a83be90ec3673d25"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"

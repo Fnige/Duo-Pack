@@ -1,0 +1,13 @@
+name = "Mod-erate Loading Screen-Neo"
+filename = "mls-0.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/olOa6I4y/versions/jBMnapHz/mls-0.8.jar"
+hash-format = "sha512"
+hash = "8dbb4dfaa41ceba0c9189c7ea37657cda28f7aa9068923463d5068e153609a8f0e44c87ed6df4181ee90160f168cc212b08449c8673b0d4181218542778b7851"
+
+[update]
+[update.modrinth]
+mod-id = "olOa6I4y"
+version = "jBMnapHz"
