@@ -1,13 +1,13 @@
 name = "Creeper Fireworks Mod"
-filename = "creeperfireworks-1.21.1-1.0.2.1-NEOFORGE.jar"
+filename = "creeperfireworks-1.21.1-1.0.2.2-NEOFORGE.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/RdiVEh3O/versions/ZLqaEKQp/creeperfireworks-1.21.1-1.0.2.1-NEOFORGE.jar"
+url = "https://cdn.modrinth.com/data/RdiVEh3O/versions/SMTEBWw2/creeperfireworks-1.21.1-1.0.2.2-NEOFORGE.jar"
 hash-format = "sha512"
-hash = "780e7037abf099f9bb20f873798e904fa0d4b38f0112ae8af937a9a4305a6c394e63eee4fa530aa9aea7bf5b9d5ab1b0da55b85a5d0c4f0cbe65046c379e8fbe"
+hash = "9227263a9772cc92b6f2e65c153fc768649e101149670d5e72a43fcc582affa0151fc59c51452ad9592f088229af41743ae8474277b98cfba5e8abcad589c217"
 
 [update]
 [update.modrinth]
 mod-id = "RdiVEh3O"
-version = "ZLqaEKQp"
+version = "SMTEBWw2"
