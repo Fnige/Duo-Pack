@@ -482,7 +482,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "ba424f5f24f050234fec8ffb948bf869d5ce4aa7933bc50d1953bd408efd6e2b"
+hash = "74a9c6f2f890649eb693c9f48c3d99148b5526e23371cf1a9a6276bd3b21b214"
 metafile = true
 
 [[files]]
@@ -626,7 +626,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "5231a5de143fef09fb80a9f2330587e287acf2626fe7f6df39772a2c778b754c"
+hash = "623fb7357556b0ff5c67c9d68a1aabe3880c5efe8bf75670e8b7c821fb66fc31"
 metafile = true
 
 [[files]]
@@ -921,7 +921,7 @@ metafile = true
 
 [[files]]
 file = "mods/rs-polymorph.pw.toml"
-hash = "4541932f7222463ef55a9537176055c1a1301551c3ec7925a87dbdaf7f46c83c"
+hash = "2ef5969ac54acbbbafeaeffa96c4face87c906cf6a534a1e8c29099fe2661470"
 metafile = true
 
 [[files]]
@@ -936,7 +936,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "25b5dfb19a7b9fc82bd8ee5d78ea02c122edbe9ca45a06020345cce03e1d8048"
+hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
 metafile = true
 
 [[files]]
@@ -1031,12 +1031,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "e8c3f829458b16691508fe87672d7e70c73fac15663bbebfb9829efd2521fa24"
+hash = "5d456b77b7ba6381ee745161d355843c52bdc20b0eab644bd6152dc669ae3d58"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "23c31613960c38bc67da32c6dcd7e611d6a61bff225739ae87ccdaa7ef6fa1c1"
+hash = "00c2f94fd2a469c880b73633a14cb6b654554ebc26610a7a8eac65a6673772d2"
 metafile = true
 
 [[files]]
@@ -1046,7 +1046,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "642607481d0c9fa3c8ae9970a8d25bd1e45f84703cd3a697255ddae8f07960ff"
+hash = "0af154df6e7fe6999b6acc493cc55f41597de5bdd0c8b84b4c2d0ae6f343a362"
 metafile = true
 
 [[files]]

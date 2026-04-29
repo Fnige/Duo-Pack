@@ -1,13 +1,13 @@
 name = "Polymorphic Refined Storage"
-filename = "rspolymorph-1.0.7.jar"
+filename = "rspolymorph-1.0.8.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "9b96ec2639d7e747a53af2ec28fe93bf594be404"
+hash = "87ea1e392464b841504a48929f45a50da2c12988"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7953252
+file-id = 8004923
 project-id = 1492934
