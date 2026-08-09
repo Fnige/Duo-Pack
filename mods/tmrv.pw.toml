@@ -1,0 +1,8 @@
+name = "tmrv"
+filename = "toomanyrecipeviewers-0.9.1-dev.2+mc.21.1.jar"
+side = "both"
+
+[download]
+url = "https://github.com/Nolij/TooManyRecipeViewers/releases/download/release%2F0.9.1-dev.2/toomanyrecipeviewers-0.9.1-dev.2+mc.21.1.jar"
+hash-format = "sha256"
+hash = "f64cce7a4e8812995600fd6e8db525be7c379c6e14e5a0c3c0e942f30d6d1ffd"
