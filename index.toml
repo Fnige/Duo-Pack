@@ -685,6 +685,11 @@ hash = "cbcaf4a18e45757f17d4a4f36469f879ae024a9fe58b8129d8a42d0faaeada22"
 metafile = true
 
 [[files]]
+file = "mods/flywheel.pw.toml"
+hash = "ca3dd84fde342b3b229031dd176c797c6501ca02ed5054243dea5ddff63434ff"
+metafile = true
+
+[[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "bdc751ad0e632ae3b25839d12bd5d548f575719baf61767b5ab64aa99d120ccc"
 metafile = true
