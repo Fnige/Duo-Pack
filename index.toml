@@ -1095,11 +1095,6 @@ hash = "5c2f6a415937be5e8d362bd5bf7565b5f16339c0bbaf71114b6b4bf3de9ced15"
 metafile = true
 
 [[files]]
-file = "mods/scalablelux.pw.toml"
-hash = "2b964b0915bc00d23421068b395763928311a533099e351e5f78c047e040b4f7"
-metafile = true
-
-[[files]]
 file = "mods/schematicians-goggles.pw.toml"
 hash = "5d1093f1dcee6bed3660201f1fa6d785ae516b90b30b2f3c77edb4fb5cb7efa5"
 metafile = true
