@@ -1,0 +1,13 @@
+name = "Placeable Blaze Rods"
+filename = "placeableblazerods-1.21.1-4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oVrn4xsC/versions/FQeDXRxU/placeableblazerods-1.21.1-4.1.jar"
+hash-format = "sha512"
+hash = "c88ffdac890daff133a4dffed5691ad121567154148858d6fafa2fec8fd18d02c616f806dc19d86aea67c8a5ff1b0a7da9698174cf69f56e071c410d40bb16d1"
+
+[update]
+[update.modrinth]
+mod-id = "oVrn4xsC"
+version = "FQeDXRxU"
