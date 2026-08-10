@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "14f862ceab11545e0a446df8c91c95ae7434ca4975db1357ad2001b6ec321e45"
+hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
 metafile = true
 
 [[files]]
@@ -322,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "b4259c4791ae275da76a9de81c91567bad2e11bf0a958212351b4998b05f47fb"
+hash = "314dc6337306adc542c9b22494b38c185f1f64ebf57f9166d4bcf162de39feb7"
 metafile = true
 
 [[files]]
@@ -926,7 +926,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "1707b4f1e3df638815211af1336c4d565d7eeae0b629527f1f9cd14eae9c0335"
+hash = "14fc787461cc4464d476454c0d06b7ecbc988e5582d51d527a43a450be9de92d"
 metafile = true
 
 [[files]]
@@ -981,7 +981,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-furniture.pw.toml"
-hash = "acafcc8edd4ee740a6ae420dcd4bf988dc316323b9981f9c6b0095294fa407f6"
+hash = "232ed0efcbdd96c2c5b7d8e760eea930f45753ac2244cedba6c06f9e033fe701"
 metafile = true
 
 [[files]]
@@ -1200,12 +1200,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "eeb5faeae3d12ba962803f4ea52bef83ae22d0c004a9790ce90ef49ade3850d3"
+hash = "c5a7fc6c3ba83d8dd013729a87840331267daf5648813a04ef1cb04b0f267a69"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "f3bf4cbcc66f7ee1d628b9f17dfc190d502a22efe92bf8079eaf5772b2a6b7ee"
+hash = "c178fc0ba68fb4c640eda0d5c12299cb2875ab798574590c3446871770959bdf"
 metafile = true
 
 [[files]]
@@ -1215,7 +1215,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "9a238268269054b1f7db8fb09abe7dc4365baaeb7eafc24dd7a61c177518d009"
+hash = "10c54d4d30cc3c4be14b3d6ef85d95d42fad6b1feea8d3658c5d9db5ab94bdac"
 metafile = true
 
 [[files]]
@@ -1350,12 +1350,12 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia-yt-plugin.pw.toml"
-hash = "4faf890cddc7addc968e262b4bc55ca47f59e482fa5c23e780def45d099f84e4"
+hash = "79e2fcf85fb4e4e4248844f4ec18daaedcd5a45157222e26383eabb29c99d60e"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
+hash = "976854e8cb0473236ae4ce6b5b29bb901dc46b20d072bfed79e1f07c64b37095"
 metafile = true
 
 [[files]]
