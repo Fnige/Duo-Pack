@@ -166,11 +166,6 @@ hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
 metafile = true
 
 [[files]]
-file = "mods/bridging-mod.pw.toml"
-hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
-metafile = true
-
-[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "3a9295215e3a815a0dd459a04ca8e9ac39eefed7e6fa7c08eb53165f5f3b165b"
 metafile = true
@@ -223,11 +218,6 @@ metafile = true
 [[files]]
 file = "mods/clientsidecrafting.pw.toml"
 hash = "bca13542bf20660bb768011e165e58d58df54124454e8e1bcd9c48c7a79a2042"
-metafile = true
-
-[[files]]
-file = "mods/clientsort.pw.toml"
-hash = "1575c645b68ae61e6848cc26ededa351235dd4bb5e58aef19b78c02c79afd447"
 metafile = true
 
 [[files]]
