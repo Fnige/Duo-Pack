@@ -1,6 +1,6 @@
 name = "Sky's Flowers"
 filename = "Sky's Flowers 1.5 NeoForge 1.21.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/V2QjH9n3/versions/ko3QaVlM/Sky%27s%20Flowers%201.5%20NeoForge%201.21.1.jar"

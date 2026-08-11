@@ -1,6 +1,6 @@
 name = "No Animal Tempt Delay"
 filename = "noanimaltemptdelay-1.21.1-1.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7YM5AXYm/versions/NA7TkDk6/noanimaltemptdelay-1.21.1-1.2.jar"

@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
+hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
 metafile = true
 
 [[files]]
@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/async-locator-refined.pw.toml"
-hash = "b77926df9a06028f058f33d85837ca623eb6fef9c4b78d9b39b428a1bf1a67b5"
+hash = "4652f7122f9fcd06f61f40a5c299d5316fde47cdbb23e8120c339f8b80a5ab27"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "17a19b546170937c6c676c026b1cd80909ac7ac4fe70b1830ce37b9c72585085"
+hash = "cc79b689faf345a5aa19ead3423726b6f87c267d686fb5807738e0cd20756679"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerulean-advancements.pw.toml"
-hash = "a2947350bef0483c5ea9f059fc609d0d61ea5ec61c2cebccfd2ef05e95d51178"
+hash = "84ad276edbae5b2419d5dc8a71a204062685904b881f724cbc2097bc9531c9f8"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/comfortable-campfires.pw.toml"
-hash = "db5e3847a52ce76e3d31ff529f891ba10fb0b778e0c66ac263042ec3dfeee68d"
+hash = "8067e26b8ea1eb23d134841508a6ab96b1eba73074353b5556ce7a4176589876"
 metafile = true
 
 [[files]]
@@ -532,7 +532,7 @@ metafile = true
 
 [[files]]
 file = "mods/create_oxidized.pw.toml"
-hash = "50a9e0cce66be2ab5f875133d7ce53d0fc6c35d4a5a4fc0e776f10fadeb61c68"
+hash = "7e9e3d04c85d0a94a449245bae9239658e0fdeaf53043145c70d54070a38b9b0"
 metafile = true
 
 [[files]]
@@ -816,7 +816,7 @@ metafile = true
 
 [[files]]
 file = "mods/grabby-mobs.pw.toml"
-hash = "b246c3cd01516ddee34626592766543695a788e4134e3de7d89ad6ee998d553e"
+hash = "b673341af68086d2e541451fa1a1165883c33ed423122bd5f5bbc9ea0348ab30"
 metafile = true
 
 [[files]]
@@ -846,7 +846,7 @@ metafile = true
 
 [[files]]
 file = "mods/improved-village-placement.pw.toml"
-hash = "b4917d33f42660f3b77863324c8b331296212f8620f208cbf91f237fc11c25e0"
+hash = "d4643e7fd8fd1227500f19e6011b33b10ef09a543adccd790345f91f3d3fcff8"
 metafile = true
 
 [[files]]
@@ -1066,7 +1066,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
-hash = "1e30fd8a340843c0415fe37e868b713e98ac6250670314c2ccce4d0d029e9b88"
+hash = "e2ff10979a12fe1cc0fa988201dd6e794352bc1e642dc886291c526d4631bd78"
 metafile = true
 
 [[files]]
@@ -1171,7 +1171,7 @@ metafile = true
 
 [[files]]
 file = "mods/random-shulker-colours.pw.toml"
-hash = "a5b5c55e51b610b9e5104a55cce2a489b9cd6a212338fdd0e3202c56a26904d2"
+hash = "74f0716635e9787d12ce3f0e07658719f4a9c2d0dbdaf9103d4d5ddfd62ff6d3"
 metafile = true
 
 [[files]]
@@ -1221,7 +1221,7 @@ metafile = true
 
 [[files]]
 file = "mods/scaffolding-drops-nearby.pw.toml"
-hash = "5c2f6a415937be5e8d362bd5bf7565b5f16339c0bbaf71114b6b4bf3de9ced15"
+hash = "51a3f5c5cd0cc355f0230113ce733244c3d2fc3d7511bdee7f056f9949709591"
 metafile = true
 
 [[files]]
@@ -1260,7 +1260,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulker-drops-two.pw.toml"
-hash = "7c00e81bb53135f5c50bc33bfa51062761d6cb27c7fee6b9880be377ae683434"
+hash = "3a7245737f7656eaed519074fa68ae7fd54dead6ba374ccb26f8021c4a7f04fa"
 metafile = true
 
 [[files]]
@@ -1275,7 +1275,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-snowy-fix-(forge-fabric).pw.toml"
-hash = "73cda0fbb91d9f76728a9fa7d9630e7f6417b1958028d924dc7013dee4597435"
+hash = "3156744d34ca58861a58b6e82574ada7285db5fe54d024db27f08336491fda1b"
 metafile = true
 
 [[files]]
@@ -1290,12 +1290,12 @@ metafile = true
 
 [[files]]
 file = "mods/skeleton-ai-fix.pw.toml"
-hash = "8939b1e09998a35e06ad499a0b9c34f1240379e7343976cbfc1985068cde8850"
+hash = "96e51a1ab6e2c52235f335c20bee2051128de204437f80ada89c599c267fe86a"
 metafile = true
 
 [[files]]
 file = "mods/skys-flowers.pw.toml"
-hash = "04c2aff5afdf5a5083b8e8819059edb208c31b920729dc5ebd19b8773c35d907"
+hash = "9cc892e4e3fe1364dab7d749fbce43656475e2453850e3fab81e8486c380d7cf"
 metafile = true
 
 [[files]]
@@ -1315,7 +1315,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-under-trees.pw.toml"
-hash = "91c70c2916e2d98f182519e0c51de5c1004db09b27c106d0f52908393a44ed28"
+hash = "3f227d1a8d6fd5ec64280173965653a4c426bbc2d45054c7ad462fa7bf729554"
 metafile = true
 
 [[files]]
@@ -1375,7 +1375,7 @@ metafile = true
 
 [[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
-hash = "27fbafdc78a4a3cb8badb58078ec1f2837e65a5bbe5160e344b0fb3e779c9efe"
+hash = "20d767f7f803fd43e7b539046878bf97a27458595a1beff0b28002aca1b671de"
 metafile = true
 
 [[files]]
