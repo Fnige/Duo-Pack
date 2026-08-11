@@ -856,7 +856,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "23a6d125c91c8f4257c4e73fe320ce81f0b2a0c1d6316664296edca6b41acb70"
+hash = "4fbe04bd9f15b5c0f861472a9be7d95ca743c7ed820119cfb7e3caed12e071fb"
 metafile = true
 
 [[files]]
@@ -1410,7 +1410,7 @@ metafile = true
 
 [[files]]
 file = "mods/swinging-lanterns.pw.toml"
-hash = "84511136b481d47b5f2fa5e2e1485e8cb95f778e035da274c898762f18ea306b"
+hash = "46293301962a0e59eaa73d5feaf1f62a5ae2566a24272241f6994b09d42718f0"
 metafile = true
 
 [[files]]
