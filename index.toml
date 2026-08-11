@@ -1594,11 +1594,6 @@ hash = "dcce4d7009e0e279644fdd68ca3603634a06eb580c3eff6dacc8c34266fba837"
 metafile = true
 
 [[files]]
-file = "mods/vista-aeronautics-fix.pw.toml"
-hash = "72010b09a0bf4d7622d86bae25852c88d71f7259eea2d1c6955b90af4935b682"
-metafile = true
-
-[[files]]
 file = "mods/vista_tv.pw.toml"
 hash = "577123bcc805ab589e818d4659ec0b45d2dee373ddeae973697887223b8cf27d"
 metafile = true
