@@ -1,0 +1,13 @@
+name = "Slot Cycler"
+filename = "SlotCycler-v21.1.1-1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3kl8Lmm9/versions/nn8PJyYj/SlotCycler-v21.1.1-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "29cd616895cbe576f9d6c5717bac8bbe481855c1d78d44587aac8a4dd6b6e2d5c7953dba6bea21a6cc17b5c02e988f8fe58d963a02442599238076721e734163"
+
+[update]
+[update.modrinth]
+mod-id = "3kl8Lmm9"
+version = "nn8PJyYj"

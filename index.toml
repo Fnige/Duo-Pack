@@ -41,6 +41,16 @@ hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
+file = "mods/aquaculture-delight.pw.toml"
+hash = "aa3a2b60567657cf093c5ec9d384df99c8ba94f7907305c18d8f50c784957a90"
+metafile = true
+
+[[files]]
+file = "mods/aquaculture.pw.toml"
+hash = "6b26155807b2f3825db22e5be51a9ab330c8a70500a702740726053cb4678349"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
@@ -78,11 +88,6 @@ metafile = true
 [[files]]
 file = "mods/azimuth-api.pw.toml"
 hash = "6030e42f662fedd16c4dea51a8b0c29913733ad88c2c422220b1db7c13589bdb"
-metafile = true
-
-[[files]]
-file = "mods/backport-copper-age.pw.toml"
-hash = "61854b1ff0419be14d2a4fa1b70b382633e529a95b338c59fbd3f5c47ded96be"
 metafile = true
 
 [[files]]
@@ -526,11 +531,6 @@ hash = "d1a7402cc94a8a857d380f68bb9a19d8981a2b3223068a53d9054e97232f4167"
 metafile = true
 
 [[files]]
-file = "mods/create-prismatic-shine.pw.toml"
-hash = "cbc7ea97d76516a5005a86388c65aaf36ff1e0558272c2e09a9533d3a4d5e82f"
-metafile = true
-
-[[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "f82cdd570cb4f6bd9b87a6a30c5e5ecc23125dfcecc715d4950a17301de8c58a"
 metafile = true
@@ -731,6 +731,11 @@ hash = "b53c40130b7c2f91237cf62480877414296fbea3525f2c824351c0c07f136ddb"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser-add-treasure-enchantments.pw.toml"
+hash = "5e6f54349621f6be7ff92852910ccffe7378031c4b60e780a3a8dcf1f15bf2f7"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "d59b35ab8c8501db71b5c394fbfa9a76d9652171226018af255c886e64e2747f"
 metafile = true
@@ -738,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "ac4cbc46bfffd2dcfac4eac2f03d93418abecdf38b2a266e57579c315987ac77"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-switch.pw.toml"
+hash = "4584243a37d1babc6278679dfe0d716955c211266a4d7564d37b1b6c348f99bf"
 metafile = true
 
 [[files]]
@@ -1035,6 +1045,11 @@ hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
 metafile = true
 
 [[files]]
+file = "mods/leave-my-bars-alone.pw.toml"
+hash = "6fc46d72336be11582b933177410f6e0e1e89c5464e19a1885c5ce80738b01c5"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
 metafile = true
@@ -1147,6 +1162,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/natural-waters.pw.toml"
+hash = "1157507323276831aedd133e382bd5c1498568afb4b5dbf0956b438d678787e5"
 metafile = true
 
 [[files]]
@@ -1359,6 +1379,11 @@ hash = "f67f27ecc171b7934e114a09ac00f066cb2343d2350f2f1b9a96bd33c022fb94"
 metafile = true
 
 [[files]]
+file = "mods/shroomcraft.pw.toml"
+hash = "0de763112003cc926184a09e4dead272cbcdcaab03ff44597c73f759cb8a22f7"
+metafile = true
+
+[[files]]
 file = "mods/shulker-drops-two.pw.toml"
 hash = "3a7245737f7656eaed519074fa68ae7fd54dead6ba374ccb26f8021c4a7f04fa"
 metafile = true
@@ -1401,6 +1426,11 @@ metafile = true
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "83a7b840686a417dfe1161ee5cd918989dd2d901c9013bf85e93a30f597260f7"
+metafile = true
+
+[[files]]
+file = "mods/slot-cycler.pw.toml"
+hash = "2979d8b1ea93c2f86f923999966fb78408d09d0e6f8d114f80b97d7b99a536fa"
 metafile = true
 
 [[files]]

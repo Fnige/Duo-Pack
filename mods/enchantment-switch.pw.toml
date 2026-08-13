@@ -1,0 +1,13 @@
+name = "Enchantment Switch"
+filename = "EnchantmentSwitch-v21.1.0-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k0wqURes/versions/G3XYA6Dk/EnchantmentSwitch-v21.1.0-1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "0bebca02782a38158f3a21f51216015eb18c291f670eafd31c1bbdf2f9195061f2c7496dc12b70c149d7031ccfe3208807a67c210ee12dc44125a396956990c5"
+
+[update]
+[update.modrinth]
+mod-id = "k0wqURes"
+version = "G3XYA6Dk"

@@ -1,0 +1,13 @@
+name = "Natural Waters"
+filename = "NaturalWaters-v21.1.0-mc1.21.1-NeoForge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aYttCyCw/versions/eb49d6pu/NaturalWaters-v21.1.0-mc1.21.1-NeoForge.jar"
+hash-format = "sha512"
+hash = "5c1158f3c270a0a81f6321f981251af0f7810abeb346b0d0927eeff652a7dfe3fdeeea7bd7f2ce6e69389499b6393be78afc2cd6209d571f00103523b9ffb010"
+
+[update]
+[update.modrinth]
+mod-id = "aYttCyCw"
+version = "eb49d6pu"
