@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ding.toml"
+hash = "8c0e12e571033c9e7632ff3a44082c3212c352b10be8e7d50bc1d9cb52bdcf94"
+
+[[files]]
+file = "config/pfm.json"
+hash = "43bceffc0d10dc0a38a0adcf95342abe0c13461b3e3530c2508802e948c28923"
+
+[[files]]
+file = "config/vehicleupgrade-server.toml"
+hash = "fb49cf7a694d2be27f1f60bd2d0440ba728f34d4ace3edab2bddbe6440d90977"
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
 metafile = true
