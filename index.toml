@@ -298,6 +298,11 @@ hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true
 
 [[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "edccf044df3d6519c3f8cb35e1044687d1b5bdc676fdce919d0844a4d2515685"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
@@ -1359,11 +1364,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
-metafile = true
-
-[[files]]
-file = "mods/room-for-two.pw.toml"
-hash = "bf061766a3a0158683e9b3aceb6b00bf61a5115b5ef94a5a9efd6ab9b9e8bd96"
 metafile = true
 
 [[files]]
