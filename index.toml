@@ -413,6 +413,11 @@ hash = "314dc6337306adc542c9b22494b38c185f1f64ebf57f9166d4bcf162de39feb7"
 metafile = true
 
 [[files]]
+file = "mods/create-bitterballen.pw.toml"
+hash = "818c72ad08596c9312ad2090aad62c7c1733053ec4588079c1d5f9cd2fa03421"
+metafile = true
+
+[[files]]
 file = "mods/create-cardboarded-conveynience.pw.toml"
 hash = "250b9b967cb0ecc2b9f4e579b26b81c5d9dbed5a35eb152370cefbe5568485d4"
 metafile = true
@@ -555,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/create-rail-grinding.pw.toml"
 hash = "96cb3a63a8cea76798153bfeeedab94d487210040a07b08c2df0e401ea85c137"
+metafile = true
+
+[[files]]
+file = "mods/create-ratatouille-fried-delights.pw.toml"
+hash = "076487648595e3ab21cba8cd641cc06ad3758d98f964b99b54faa72eecdce171"
 metafile = true
 
 [[files]]
@@ -779,6 +789,11 @@ hash = "31c10f44445a5dbe23a17b64d9b2881157d6588a1336fe7f3731d7006fa61dd7"
 [[files]]
 file = "mods/euphoria-patches.pw.toml"
 hash = "c5bb130a9bc6f565c90f5ceeec03bee73a4eaae801a7e44364941dff8b8502d4"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "e0ad7cb6cf33d7958b7c9b7af321807190adf45ada89d65892fe2d437fe3024d"
 metafile = true
 
 [[files]]
@@ -1172,6 +1187,11 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "9d17108df8460b193938992825266e5f22205ee066249a3f706be640069f193a"
+metafile = true
+
+[[files]]
 file = "mods/natural-waters.pw.toml"
 hash = "1157507323276831aedd133e382bd5c1498568afb4b5dbf0956b438d678787e5"
 metafile = true
@@ -1347,6 +1367,11 @@ hash = "bf061766a3a0158683e9b3aceb6b00bf61a5115b5ef94a5a9efd6ab9b9e8bd96"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "ac9db8b319aa7a53d06c5209998dcf8a2d9a6bd17fbd14c3f6dd859727d434a7"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
@@ -1513,6 +1538,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
 metafile = true
 
 [[files]]
