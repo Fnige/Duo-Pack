@@ -1,0 +1,13 @@
+name = "Dye The World!"
+filename = "dye_the_world-2.3.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/naUMeOvG/versions/FRLou8Pq/dye_the_world-2.3.4.jar"
+hash-format = "sha512"
+hash = "cfd4eb66335892cd16c8d83b87872dc1fe224dfa3633660c5d32b416713672ae69e722902f43b5fdf9b8a95cd574d8679045443f58fb731306115d5185bec004"
+
+[update]
+[update.modrinth]
+mod-id = "naUMeOvG"
+version = "FRLou8Pq"

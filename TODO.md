@@ -6,3 +6,4 @@
 
 # quark
 - disable totem of holding (oddities)
+- disable food tooltip (client)

@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/ding.toml"
-hash = "8c0e12e571033c9e7632ff3a44082c3212c352b10be8e7d50bc1d9cb52bdcf94"
+file = "config/amendments-common.toml"
+hash = "c91610cc7047d00498bc72fcf5eb1fee96e92bffa832a51918316152ceccd10c"
+
+[[files]]
+file = "config/arts_and_crafts-common.toml"
+hash = "d1e46377942f5f44139baf08ce6747ca5bbade7f74e8af5892902a9e958cd244"
+
+[[files]]
+file = "config/axesareweapons.json5"
+hash = "88d26b7ee0fc6a093d13e65d2d11282a2b21700060260fde4c69c8a1350aeb1d"
+
+[[files]]
+file = "config/pehkui-server.toml"
+hash = "e9b7a47a7b9b2994c66401fcd13d7b5606009d2d4dedefc04d02eab4e4e982d9"
 
 [[files]]
 file = "config/pfm.json"
@@ -11,6 +23,18 @@ hash = "43bceffc0d10dc0a38a0adcf95342abe0c13461b3e3530c2508802e948c28923"
 [[files]]
 file = "config/vehicleupgrade-server.toml"
 hash = "fb49cf7a694d2be27f1f60bd2d0440ba728f34d4ace3edab2bddbe6440d90977"
+
+[[files]]
+file = "configureddefaults/README.md"
+hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
+
+[[files]]
+file = "configureddefaults/config/ding.toml"
+hash = "8c0e12e571033c9e7632ff3a44082c3212c352b10be8e7d50bc1d9cb52bdcf94"
+
+[[files]]
+file = "configureddefaults/config/stellarview-client.toml"
+hash = "195895d761edfbe1c09ddbcfccb5221cadad6419e63a2a6025a8867d00b65bbc"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -270,6 +294,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
+metafile = true
+
+[[files]]
+file = "mods/colorful-depot.pw.toml"
+hash = "b3c013507fdd85a662b4e6861cde218ca27f1409165940970fd08d3e946b9409"
 metafile = true
 
 [[files]]
@@ -705,6 +734,16 @@ metafile = true
 [[files]]
 file = "mods/dusty-decorations.pw.toml"
 hash = "5c3c3dce1d331a31e67bbc826b0cdaf6db79723cd4739728ff274f4f0b712fe2"
+metafile = true
+
+[[files]]
+file = "mods/dye-depot.pw.toml"
+hash = "3f2b8acea20b5966d65a0ac9509fa31d346c08d86e71bd597e1911a71814462c"
+metafile = true
+
+[[files]]
+file = "mods/dye-the-world.pw.toml"
+hash = "4603da0fa00208533b55e17353624c9dcf33bee9410aee69567330e03875ab68"
 metafile = true
 
 [[files]]
@@ -1344,6 +1383,11 @@ metafile = true
 [[files]]
 file = "mods/reconnectible-chains.pw.toml"
 hash = "e1fdc229b4e61e851a0341f4855592d0255734d1eda2bc37bf82b0cdcf13417c"
+metafile = true
+
+[[files]]
+file = "mods/redomesticate.pw.toml"
+hash = "1c174ffd15f259bc88344367003ab609d0cd8e2849df7b6faceb3088effd51ff"
 metafile = true
 
 [[files]]
