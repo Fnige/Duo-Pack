@@ -1,0 +1,11 @@
+# Don't change this! Version used to track needed updates.
+version = 1
+lowerShield = true
+shields = [
+   "minecraft:shield",
+	"enderscape:kurodite_rubble_shield",
+	"enderscape:mirestone_rubble_shield",
+	"enderscape:veradite_rubble_shield",
+	"enderscape:end_stone_rubble_shield"
+]
+offset = -4.0
