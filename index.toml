@@ -206,6 +206,11 @@ hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
 metafile = true
 
 [[files]]
+file = "mods/better-beacon-placement.pw.toml"
+hash = "f130adaa07e1db40707bffab3f33d58b27d2278e6ce0a26eea988d16295df185"
+metafile = true
+
+[[files]]
 file = "mods/better-beds.pw.toml"
 hash = "8071f5bd344fcf5c1ecfd4dbf8830fcab70052931fdf17f372356df2e5bbb7b5"
 metafile = true
@@ -298,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/cerbons-api.pw.toml"
 hash = "479dab388743fb59d3399d2d87a0a7dc0819a4184b74f734fa9cc1eecdd6f6f6"
+metafile = true
+
+[[files]]
+file = "mods/cerbons-better-beacons-fix.pw.toml"
+hash = "334be7bc36587b9d4c4e9a23a78ee9c751e4dbae42c7cbf21591022c64edb3c5"
 metafile = true
 
 [[files]]
