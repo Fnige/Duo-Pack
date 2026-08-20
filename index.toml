@@ -37,6 +37,14 @@ file = "config/connectiblechains.toml"
 hash = "3a64d2083bc39ab7951e0eef7e9eec219446a59915e136394ecc32f65521b40d"
 
 [[files]]
+file = "config/create_central_kitchen-common.toml"
+hash = "a7837db856ac533cafc73439e4f0234269308989bbeb531dfa89eb1360dcb626"
+
+[[files]]
+file = "config/create_connected-common.toml"
+hash = "19ad0293397a639ce1421d97911c5e51b90d005a87cf642aaf8d6d6749d01bd0"
+
+[[files]]
 file = "config/misctweaks/client_config.toml"
 hash = "2281e70e6f4565f53ec02a47066f6e77b900939058ab8cdbef71af484bded6e4"
 
@@ -207,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-beacon-placement.pw.toml"
-hash = "f130adaa07e1db40707bffab3f33d58b27d2278e6ce0a26eea988d16295df185"
+hash = "9efc9725b6b69882d5be78535226f006de59a1bccd9e8ff23b327729f5358f21"
 metafile = true
 
 [[files]]
@@ -307,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerbons-better-beacons-fix.pw.toml"
-hash = "334be7bc36587b9d4c4e9a23a78ee9c751e4dbae42c7cbf21591022c64edb3c5"
+hash = "c5316eb6ddf33ed62b9de8ce60536caf70a2429d6dacc97073cf9721fd2fb2b1"
 metafile = true
 
 [[files]]
@@ -753,6 +761,16 @@ metafile = true
 [[files]]
 file = "mods/cyanide.pw.toml"
 hash = "08ab5ee502b94653263fdfea09b0c58958e9e6adffc45cb35f496cc5a0a6fb8d"
+metafile = true
+
+[[files]]
+file = "mods/dashpanels-expanded.pw.toml"
+hash = "005ba7cec099ba5fdba6f3b325455145e6dce67d9666b69e1ce302d80765c18f"
+metafile = true
+
+[[files]]
+file = "mods/dashpanels-extra.pw.toml"
+hash = "e388d9832552911550c0f80dc0ee431faf6a2e68d4262359c2101c72e249f09d"
 metafile = true
 
 [[files]]
