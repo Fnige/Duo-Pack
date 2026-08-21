@@ -694,11 +694,6 @@ hash = "80332cead695f1e3c27e99133a48709767d1106f836792bb2fc4d594b88f1a68"
 metafile = true
 
 [[files]]
-file = "mods/create-storage-neo-forge.pw.toml"
-hash = "2a300cac0ad153cbae000504b90775d774c1f8e3cd7744f1dc19ac6ff9eaecc0"
-metafile = true
-
-[[files]]
 file = "mods/create-tweaked-controllers.pw.toml"
 hash = "2c72104b4cf249d4f096f673293a41c199d611dc9b99a9055d463fa5cd90c7cd"
 metafile = true

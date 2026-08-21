@@ -5,6 +5,9 @@
 - disable supplementaries blaze rod
 - figure out MSF - PFM issue
 
+# create
+- readd refined radiance and shadow steel
+
 # quark
 - disable totem of holding (oddities)
 - disable food tooltip (client - appleskin)
