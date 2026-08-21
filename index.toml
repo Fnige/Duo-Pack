@@ -37,12 +37,24 @@ file = "config/connectiblechains.toml"
 hash = "3a64d2083bc39ab7951e0eef7e9eec219446a59915e136394ecc32f65521b40d"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "3ce94eb38911e87e6ced87e7b9be23d5739e90be720b6f9e527cd8997a7ab82e"
+
+[[files]]
 file = "config/create_central_kitchen-common.toml"
 hash = "a7837db856ac533cafc73439e4f0234269308989bbeb531dfa89eb1360dcb626"
 
 [[files]]
 file = "config/create_connected-common.toml"
 hash = "19ad0293397a639ce1421d97911c5e51b90d005a87cf642aaf8d6d6749d01bd0"
+
+[[files]]
+file = "config/create_mobile_packages-server.toml"
+hash = "5753c9bfa9840899dd1eb6c199daf6dd69f5137b77f88a5330c05f7778722a44"
+
+[[files]]
+file = "config/createbiggervaults-common.toml"
+hash = "96a43feb2b02ca66aabe9d3b8dc6cc803baf8c56651da186acf7bf5f26cb6576"
 
 [[files]]
 file = "config/misctweaks/client_config.toml"
