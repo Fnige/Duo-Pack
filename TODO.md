@@ -24,5 +24,7 @@
 
 # active issues
 - https://github.com/PssbleTrngle/DyeTheWorld/issues/220
+- https://github.com/PssbleTrngle/DyeTheWorld/issues/221
 - https://github.com/pajicadvance/misctweaks/issues/11
 - https://github.com/Create-In-Locomotion/Create-Escalated/issues/37
+- https://github.com/lucalabs-de/FairyLightsFabric/issues/31

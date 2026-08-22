@@ -81,6 +81,10 @@ file = "config/pfm.json"
 hash = "43bceffc0d10dc0a38a0adcf95342abe0c13461b3e3530c2508802e948c28923"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "993477a2dbf9e043ed9b20147d53e2613ad39d6ff9a8e8c44076230b08fa9499"
+
+[[files]]
 file = "config/sensible_stackables.json"
 hash = "6ea218a04ce73eaae2a6156ca2730b83aae551d63db48d03d0faa10deb51ed6a"
 
@@ -309,6 +313,11 @@ metafile = true
 [[files]]
 file = "mods/brewin-and-chewin.pw.toml"
 hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
+metafile = true
+
+[[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "c50696cd98b02ba03425574c7850443f5cba8e097af4b6ae1c8b42bd5316a8eb"
 metafile = true
 
 [[files]]
@@ -1242,7 +1251,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmft.pw.toml"
-hash = "faed2d9ae09b810b385180a3c20e598ff4d43da75f324b0320649ea4eeb78e29"
+hash = "35725a7bee95c5f0df1eeccd3ed406036c35fae26a7d7864fae1127a85957fdb"
 metafile = true
 
 [[files]]
