@@ -9,6 +9,10 @@ file = "config/arts_and_crafts-common.toml"
 hash = "d1e46377942f5f44139baf08ce6747ca5bbade7f74e8af5892902a9e958cd244"
 
 [[files]]
+file = "config/asynclogger.toml"
+hash = "a1e534a5778570ec1d07bdb4b8c393c7b6cfc07d163dac752a487c2f6ea6d8c8"
+
+[[files]]
 file = "config/axesareweapons.json5"
 hash = "88d26b7ee0fc6a093d13e65d2d11282a2b21700060260fde4c69c8a1350aeb1d"
 
