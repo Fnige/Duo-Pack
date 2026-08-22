@@ -57,6 +57,14 @@ file = "config/createbiggervaults-common.toml"
 hash = "96a43feb2b02ca66aabe9d3b8dc6cc803baf8c56651da186acf7bf5f26cb6576"
 
 [[files]]
+file = "config/farmersdelight-common.toml"
+hash = "80296725447a2921e5f1bb27060af7acd250fd73d69decc6a239219fa06c9298"
+
+[[files]]
+file = "config/journeymap-server.toml"
+hash = "d5e53f59e0bcb14680dae81fb1449c6f357ad41ac1b6b36f5923d5eb7e2a0688"
+
+[[files]]
 file = "config/misctweaks/client_config.toml"
 hash = "2281e70e6f4565f53ec02a47066f6e77b900939058ab8cdbef71af484bded6e4"
 
@@ -95,6 +103,14 @@ hash = "1e38109defca75f40fa46e07e19ec4dfb318a359c2e5902a9e35f88bf73add02"
 [[files]]
 file = "configureddefaults/config/ding.toml"
 hash = "8c0e12e571033c9e7632ff3a44082c3212c352b10be8e7d50bc1d9cb52bdcf94"
+
+[[files]]
+file = "configureddefaults/config/immediatelyfast.json"
+hash = "78a2b2451723e869df8c159aef6d75fda3ca0e6ec435a4eed30cde4f2cfddf9c"
+
+[[files]]
+file = "configureddefaults/config/mls-client.toml"
+hash = "cf5cbb9a2f7d4fb4e09a4fff825a9d3bda56f35fdbcebe958873b71c449ce6d2"
 
 [[files]]
 file = "configureddefaults/config/stellarview-client.toml"
@@ -168,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/async-locator-refined.pw.toml"
 hash = "4652f7122f9fcd06f61f40a5c299d5316fde47cdbb23e8120c339f8b80a5ab27"
+metafile = true
+
+[[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "00164cb8596bbeffb1c05bc29df93655320a13db96caf656544a3e004998b8e6"
 metafile = true
 
 [[files]]
@@ -950,8 +971,8 @@ hash = "00ec91db9928c4da54bb3843eb8eba7c918aa65ffdc90b69f93bd52e41387eb1"
 metafile = true
 
 [[files]]
-file = "mods/fairylights.pw.toml"
-hash = "b737f1d74dea3ef79a452bb0b307f01254976797c466389f009e395ce5c23c2f"
+file = "mods/fairy-lights-fabric.pw.toml"
+hash = "5b1d1a4878d6a8e1177533b959f2e7b1176d3bb5a06ee0aa6c1cc7683da2458a"
 metafile = true
 
 [[files]]

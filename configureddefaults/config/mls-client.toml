@@ -1,0 +1,40 @@
+["Moderate Loading Screen"]
+	backgroundColor = 1447446
+	# Default: 100
+	# Range: 0 ~ 100
+	logoOpacity = 100
+	# Default: 100
+	# Range: 0 ~ 100
+	barOpacity = 100
+	modsOnlyOnce = false
+	modIdBlacklist = [
+		"neoforge", "minecraft", "forgified_fabric_api", "fabric_api_base", 
+		"fabric_api_lookup_api_v1", "fabric_biome_api_v1", "fabric_block_api_v1", 
+		"fabric_blockrenderlayer_v1", "fabric_block_view_api_v2", "fabric_client_tags_api_v1", 
+		"fabric_command_api_v2", "fabric_content_registries_v0", "fabric_convention_tags_v1", 
+		"fabric_convention_tags_v2", "fabric_data_attachment_api_v1", "fabric_data_generation_api_v1",
+		"fabric_entity_events_v1", "fabric_events_interaction_v0", "fabric_game_rule_api_v1", 
+		"fabric_gametest_api_v1", "fabric_item_api_v1", "fabric_item_group_api_v1", 
+		"fabric_key_binding_api_v1", "fabric_lifecycle_events_v1", "fabric_loot_api_v2", 
+		"fabric_loot_api_v3", "fabric_message_api_v1", "fabric_model_loading_api_v1", 
+		"fabric_networking_api_v1", "fabric_object_builder_api_v1", "fabric_particles_v1", 
+		"fabric_recipe_api_v1", "fabric_registry_sync_v0", "fabric_renderer_indigo", 
+		"fabric_renderer_api_v1", "fabric_render_registries_v1", "fabric_rendering_v1", 
+		"fabric_rendering_data_attachment_v1", "fabric_rendering_fluids_v1", 
+		"fabric_resource_conditions_api_v1", "fabric_resource_loader_v0", "fabric_screen_api_v1",
+		"fabric_screen_handler_api_v1", "fabric_sound_api_v1", "fabric_tag_api_v1", 
+		"fabric_transfer_api_v1", "fabric_transitive_access_wideners_v1", "colorwheel_patcher",
+		"aeronautics_bundled", "greenhouseconfig_night_config", "greenhouseconfig_toml", 
+		"lambdynlights_api", "lambdynlights_runtime", "sablecompanion"]
+	iconSize = 32
+	#Allowed Values: SNOWFLAKES, STACKING
+	screenType = "SNOWFLAKES"
+	#Allowed Values: DOWN, RIGHT, UP, LEFT
+	orientation = "DOWN"
+	cycleSeconds = 20
+	#Show LoadingScreen Over NeoForge LoadingScreen
+	earlyWindowOverlay = true
+	#Set Icon Alpha
+	# Default: 75
+	# Range: 0 ~ 100
+	iconOpacity = 75
