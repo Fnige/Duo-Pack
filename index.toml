@@ -550,11 +550,6 @@ hash = "8bc79b14b3fa74bbb49550cf543a1f4b6303e8e09c1f73125a022783e9d02711"
 metafile = true
 
 [[files]]
-file = "mods/create-ballast.pw.toml"
-hash = "fcabd265b7d88372614d74bae22c7a1ea90c830ff4e8aa13d8354bece9690555"
-metafile = true
-
-[[files]]
 file = "mods/create-bigger-vaults.pw.toml"
 hash = "f10eec538ad690a0685dde279cc02e00e9036c10230cfa64835c8b3dec30f8be"
 metafile = true
@@ -1341,11 +1336,6 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "4e8c07523024ba37f1064f1dcc0c3dbb65996d4976a71dd30f239d3e6efbe096"
-metafile = true
-
-[[files]]
-file = "mods/more-sniffer-flowers.pw.toml"
-hash = "7e11c17858fef756d494048dbe5d9e7e4cd52ee9f5b188786923260b78193859"
 metafile = true
 
 [[files]]

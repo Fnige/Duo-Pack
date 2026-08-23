@@ -4,7 +4,6 @@
 - figure out what causes the game to reload chunks when typing/scrolling in the inventory/emi
 - disable supplementaries blaze rod
 - figure out MSF - PFM issue
-- remove the dye depot model erros from logs
 
 # create
 - readd refined radiance and shadow steel
