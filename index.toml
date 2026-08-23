@@ -77,6 +77,10 @@ file = "config/misctweaks/config.toml"
 hash = "661dfa078a47ea1b0c9432f5d6d275c9fe28b936b5062dfd137b89c176658cfc"
 
 [[files]]
+file = "config/mixed_litter-startup.toml"
+hash = "800b25a803f416531dfec28d27bdacd700bbdfa5e0e06161a334f5c0017f5904"
+
+[[files]]
 file = "config/pehkui-server.toml"
 hash = "e9b7a47a7b9b2994c66401fcd13d7b5606009d2d4dedefc04d02eab4e4e982d9"
 
@@ -89,8 +93,24 @@ file = "config/quark-common.toml"
 hash = "ba300c0e572e9a9ea8d751cd5b943f8c31bb66a013ea6c578a0159d071a9aaa5"
 
 [[files]]
+file = "config/redomesticate.json"
+hash = "75c9a9d380680fc48d7643c29cd86c0c4e8a7138137009906aff3718003a8fbc"
+
+[[files]]
 file = "config/sensible_stackables.json"
 hash = "6ea218a04ce73eaae2a6156ca2730b83aae551d63db48d03d0faa10deb51ed6a"
+
+[[files]]
+file = "config/shulkerdropstwo.json5"
+hash = "39e73808f3dc67ae55a5d046fcef8ed54d3f7be961e76e8f2703bbd1c192b656"
+
+[[files]]
+file = "config/simplebackups-common-experimental.toml"
+hash = "faa1511ab1ddf1931d91472bd64a5ac4e56ae50b1f0fd477cb426609a19f0da2"
+
+[[files]]
+file = "config/simplebackups-common.toml"
+hash = "78bd0109d99501daacd2018b06cd759891569d99a106b0f62fb6dbf77754167d"
 
 [[files]]
 file = "config/vehicleupgrade-server.toml"
@@ -1439,6 +1459,11 @@ hash = "a80d243759a5998d1f61cab61a9769526c21e1a9ac2f328ec1f213bb97311bfe"
 metafile = true
 
 [[files]]
+file = "mods/platform.pw.toml"
+hash = "00887452f4c902a5f98fc42875d522e59948b60c20d887855a183c0f7235c641"
+metafile = true
+
+[[files]]
 file = "mods/plushie-buddies.pw.toml"
 hash = "232cc64017e10c72eb65e1c210e6e1d14ce4391a2534912e023467dfc5f8ad1a"
 metafile = true
@@ -1708,11 +1733,6 @@ hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
 metafile = true
 
 [[files]]
-file = "mods/spring-to-life-backport.pw.toml"
-hash = "7efc27bb36b743d8db16a24e03ff926a0deb135becd3a8dca0074fc1a26615a8"
-metafile = true
-
-[[files]]
 file = "mods/stellarview.pw.toml"
 hash = "3792d649d29e5c684218283dcb787cca922ac74524730ae04118768aaed5cccf"
 metafile = true
@@ -1778,6 +1798,11 @@ hash = "be81b53e86e115ce028dce3f9327d973bb3355a19ea19dbf886b1506a8661ff9"
 metafile = true
 
 [[files]]
+file = "mods/tiny-takeover-backport.pw.toml"
+hash = "061c01070419c41529d70149ce5066f4c114389d9da1c2838fb94b6e5b543d68"
+metafile = true
+
+[[files]]
 file = "mods/titanium.pw.toml"
 hash = "5b6a8b957c193e3433593c71b2e397698c5216cce763ee973e60b1f48d79a052"
 metafile = true
@@ -1840,6 +1865,11 @@ metafile = true
 [[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "e23a9d35dea90857ae5c89b8b07056f6f774b16a3a18dce0cb54fdd40886c1c9"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "0ed7d23f7f9bb186c0ff097fe015bf0988a456999f2cf6658705a6b4a17350e4"
 metafile = true
 
 [[files]]
