@@ -2,8 +2,6 @@
 - Check if https://github.com/Fuzss/vehicle-upgrade/issues/10 happens
     - add minecart to relevent tag
 - figure out what causes the game to reload chunks when typing/scrolling in the inventory/emi
-- disable supplementaries blaze rod
-- figure out MSF - PFM issue
 
 # create
 - readd refined radiance and shadow steel

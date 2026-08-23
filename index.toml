@@ -113,8 +113,28 @@ file = "config/simplebackups-common.toml"
 hash = "78bd0109d99501daacd2018b06cd759891569d99a106b0f62fb6dbf77754167d"
 
 [[files]]
+file = "config/sorted_enchantments.toml"
+hash = "3a9e25d8f3f442dde6a120f1a99d571fe1dbdc26e819c39379329165d91b5add"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "7bb49f77c5162906c427cebf871425785f14af59ae1dea615647c2d21b56c53a"
+
+[[files]]
+file = "config/trashslot-common.toml"
+hash = "561ca5450162a07377bf6a00ac5bb41e063702796a1feace38080655c545f5db"
+
+[[files]]
+file = "config/treephysics-common.toml"
+hash = "c36e1b7ad246483fd8e01c06ad61e1200279a09c20f9f620caf21016a1540802"
+
+[[files]]
 file = "config/vehicleupgrade-server.toml"
 hash = "fb49cf7a694d2be27f1f60bd2d0440ba728f34d4ace3edab2bddbe6440d90977"
+
+[[files]]
+file = "config/vista-common.toml"
+hash = "85ceb8b93a14b1e95ec6e1cdf9eb9ebc6eceafe8b7b873135030680ec2da7786"
 
 [[files]]
 file = "configureddefaults/README.md"
