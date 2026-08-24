@@ -17,3 +17,4 @@
 - https://github.com/pajicadvance/misctweaks/issues/11
 - https://github.com/Create-In-Locomotion/Create-Escalated/issues/37
 - https://github.com/lucalabs-de/FairyLightsFabric/issues/31
+- https://github.com/PigCart/particle-rain/issues/270
