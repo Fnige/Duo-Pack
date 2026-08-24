@@ -61,6 +61,10 @@ file = "config/createbiggervaults-common.toml"
 hash = "96a43feb2b02ca66aabe9d3b8dc6cc803baf8c56651da186acf7bf5f26cb6576"
 
 [[files]]
+file = "config/escalated-server.toml"
+hash = "31b9fb8d23a524c68dff3793137a0455bb8f9f5896d8da15ac34eada3de41618"
+
+[[files]]
 file = "config/farmersdelight-common.toml"
 hash = "80296725447a2921e5f1bb27060af7acd250fd73d69decc6a239219fa06c9298"
 
@@ -97,6 +101,10 @@ file = "config/redomesticate.json"
 hash = "75c9a9d380680fc48d7643c29cd86c0c4e8a7138137009906aff3718003a8fbc"
 
 [[files]]
+file = "config/refurbished_furniture.server.toml"
+hash = "d91498bc9a33630b2e1b560b3bec8ed67578b87144bb1358f177522ff6d80ca2"
+
+[[files]]
 file = "config/sensible_stackables.json"
 hash = "6ea218a04ce73eaae2a6156ca2730b83aae551d63db48d03d0faa10deb51ed6a"
 
@@ -111,6 +119,18 @@ hash = "e3d5c7c978570b6bc6f7146c8dbcd11d9ec811141e37b5ee5204711265033742"
 [[files]]
 file = "config/simplebackups-common.toml"
 hash = "78bd0109d99501daacd2018b06cd759891569d99a106b0f62fb6dbf77754167d"
+
+[[files]]
+file = "config/solcarrot-server.toml"
+hash = "a6e275be1072f5e1f7335b6398e86f995fae2e7a1952e0cb34971beeda10e107"
+
+[[files]]
+file = "config/someassemblyrequired-server.toml"
+hash = "428735b0d838a24c91f0acb7b5f9be9b334a909abc2faf841a8769fe644a4929"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "8c54473c10439f31e27c57086c9e211b3f5fa5a98183d4dcc0a78070ebe75f2c"
 
 [[files]]
 file = "config/sorted_enchantments.toml"
@@ -135,6 +155,10 @@ hash = "fb49cf7a694d2be27f1f60bd2d0440ba728f34d4ace3edab2bddbe6440d90977"
 [[files]]
 file = "config/vista-common.toml"
 hash = "85ceb8b93a14b1e95ec6e1cdf9eb9ebc6eceafe8b7b873135030680ec2da7786"
+
+[[files]]
+file = "config/waterframes-server.toml"
+hash = "256e8963bd2e58e8fa99c31adaa70d1ead97f5f4285e22221c7eca560784a327"
 
 [[files]]
 file = "configureddefaults/README.md"
@@ -340,11 +364,6 @@ hash = "ead3aff0899e5bc61eb22fe0af86722b430f9e92990b3cd2720d5c2c1f66d023"
 metafile = true
 
 [[files]]
-file = "mods/blur-plus.pw.toml"
-hash = "a73d8679c4bfd8fcb09b3c1397ee437fe22486db2a5819fad0a5a09fb281d952"
-metafile = true
-
-[[files]]
 file = "mods/bocchud.pw.toml"
 hash = "60fdfdb796c24a047c7283042fb51d0c3937a4ba745c2353cf9a5f73ed24eca5"
 metafile = true
@@ -521,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "758e1da51af7eb1789b05635f3690b24b7c6dd6a51eb94a52b3c4c134987226e"
+hash = "a7eb11401eda3779b7f2d6f32c2964511d5c71760573f2577d55c78ca800f8a3"
 metafile = true
 
 [[files]]
@@ -571,7 +590,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-transmission-linkage.pw.toml"
-hash = "aabc3d94ea527039798baa69d7c381cb679afa63f2d842c5357bb8d186792e5b"
+hash = "e9a56f66c58daebbdeda2faaab4e88a95e6d16fedb82c211f74b9e6784a8d792"
 metafile = true
 
 [[files]]
@@ -596,7 +615,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "ed20864febbf66079c2898fd6fae2d47653c2fc0995920bba66cbb1137fb1b64"
+hash = "31d25e9c5d15cd09f845d94dd4df51b1fbd641fb07737e80a46afdd367984f7b"
 metafile = true
 
 [[files]]
@@ -666,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "0ae5b9a5883e79282ad756ea205f3fa1af11ced75bb4ba5b74e3d32e1ea684c9"
+hash = "a7fd8286646b1d7ae52507c6ccfa7767389803f30e5f891c59d26c1463808e59"
 metafile = true
 
 [[files]]
@@ -801,7 +820,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "318c96390db6b23f50f5f7dea4db0f8394a47edf96dff25b8a0b241956790114"
+hash = "b06e3a557d5fe63fa8bcb60335eba994288ce124625eabd29b76daf602ad3dcb"
 metafile = true
 
 [[files]]
@@ -1100,7 +1119,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "601c508bd1354616a52a6f9f2bd0537c97b083ef76b98fcc76acb8504a8ad500"
+hash = "678e0af0db18575a92c9d14b853a15574af4f869091dcb045165fad731d19c67"
 metafile = true
 
 [[files]]
@@ -1260,7 +1279,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+hash = "1db25211349d6526378c90de2ad12284b9abb66becd4945aebf9a26d4bdbb8d9"
 metafile = true
 
 [[files]]
@@ -1335,7 +1354,7 @@ metafile = true
 
 [[files]]
 file = "mods/mapfrontiers.pw.toml"
-hash = "c3c4d5efa5890f7457e958288f125cc6dff87f62c90a49234996a0b50be4a655"
+hash = "3238202efb67b9ae73f33166306da11ba8b9ce7bd48e7a5adb1b081bf2591061"
 metafile = true
 
 [[files]]
@@ -1375,7 +1394,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "4e8c07523024ba37f1064f1dcc0c3dbb65996d4976a71dd30f239d3e6efbe096"
+hash = "b91cb844a09b8a4accd27d3d2882f37aec5cef58e7b43b315da65ee8caf9e957"
 metafile = true
 
 [[files]]
@@ -1429,6 +1448,11 @@ hash = "413494b5ba534461e22545173a8cc6e98b04962a0ee9514498b830b99d4acabe"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "cb40fc0e1e0a3338d57b34a5ba2612ae9a9f0e32619695c4da637a98b4e52cf3"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -1445,7 +1469,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "6f24e7f5ecef862b1bdb61031637e27b093f185c3219023bea94d2d954ec4180"
+hash = "70a1250e9612f8194f88e9c14b405907d16e7b2df7742d6b4d1c42473486395e"
 metafile = true
 
 [[files]]
@@ -1516,6 +1540,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
+metafile = true
+
+[[files]]
+file = "mods/rabbit-pathfinding-fixed-(unofficial-forge-port).pw.toml"
+hash = "bec7871ce0b4b3196e0b9c1bbafc2098e39be20742e1a0f4934c3ad64de1f2e6"
 metafile = true
 
 [[files]]
@@ -1724,7 +1753,7 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "1195de47e170215af4a3e946d29953605f5380c01e28cd50ac7061a59b77d209"
+hash = "9d4a04a61b2cebf80d76716f2d3c034d17f817327cbad6a79921a05c2e2c23a3"
 metafile = true
 
 [[files]]
