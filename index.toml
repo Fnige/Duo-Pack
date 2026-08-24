@@ -1469,7 +1469,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-rain.pw.toml"
-hash = "70a1250e9612f8194f88e9c14b405907d16e7b2df7742d6b4d1c42473486395e"
+hash = "7dc583e0a2e68cd0fcc1f6e3d1e7fde8a5f93c508ed880c7c25019d56cb59176"
 metafile = true
 
 [[files]]
@@ -1779,11 +1779,6 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-carrot-edition.pw.toml"
 hash = "e520ad446364dff7dd50896108a96140f3f5598b72003dade5b17308fa9ef2a9"
-metafile = true
-
-[[files]]
-file = "mods/stellarview.pw.toml"
-hash = "3792d649d29e5c684218283dcb787cca922ac74524730ae04118768aaed5cccf"
 metafile = true
 
 [[files]]
