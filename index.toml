@@ -204,6 +204,11 @@ hash = "4377158b43f908e33f725f622644aef9710434a48fd0d3722d5b150fad7eb865"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "18a5b572a9afdb84b24f5c58c4a53022158f8db746dde95531b780d4713f3fc8"
+metafile = true
+
+[[files]]
 file = "mods/allurement!.pw.toml"
 hash = "3cf42a50b82f08f77419d55188b2d0e8916792eca0021dc5a34a5bc8714652c8"
 metafile = true
@@ -371,6 +376,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
+metafile = true
+
+[[files]]
+file = "mods/brainier-bees.pw.toml"
+hash = "cf67f01d257c4815590f6b6ed0351aed28eb907e2cc7a08d95c9f4d3eb76acc2"
 metafile = true
 
 [[files]]
@@ -906,6 +916,11 @@ metafile = true
 [[files]]
 file = "mods/display-delight.pw.toml"
 hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
+metafile = true
+
+[[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "7b9204de0626ccbcb91201c16427cf5bc70e5990e35fe553d4709794f3b21776"
 metafile = true
 
 [[files]]

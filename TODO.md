@@ -1,7 +1,11 @@
 - Figure out why Create: Prismatic Shine breaks
 - Check if https://github.com/Fuzss/vehicle-upgrade/issues/10 happens
-    - add minecart to relevent tag
+	- add minecart to relevent tag
 - figure out what causes the game to reload chunks when typing/scrolling in the inventory/emi
+	- Probably PFM but idk what to do about that
+- Make the "Create Toolgun is recommended" message shut up
+- Add Akashic Tome
+
 
 # create
 - readd refined radiance and shadow steel
@@ -18,3 +22,7 @@
 - https://github.com/Create-In-Locomotion/Create-Escalated/issues/37
 - https://github.com/lucalabs-de/FairyLightsFabric/issues/31
 - https://github.com/PigCart/particle-rain/issues/270
+
+# kubejs
+
+- deal with multiple cobblestone bricks
