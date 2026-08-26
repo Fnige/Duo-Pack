@@ -21,8 +21,8 @@ file = "config/cable_facades-common.toml"
 hash = "7ec56c01fdd924a43cf774a47427308fda2f91478a3950b0962703c937def613"
 
 [[files]]
-file = "config/chalk-common.toml"
-hash = "15c9a4efc765cd61d08f4f05315cfb8023ba456deeba5c5cf736a896f1544e29"
+file = "config/chalk-server.toml"
+hash = "2b080f2a339f49b87c24b967e7535295b2ba0985b3cbea42f1d21989f650dc0b"
 
 [[files]]
 file = "config/colorfulpipes-server.toml"
