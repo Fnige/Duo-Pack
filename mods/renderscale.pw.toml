@@ -1,0 +1,13 @@
+name = "RenderScale"
+filename = "renderscale-1.4.0-alpha.5-neoforge+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Va8PJBFX/versions/TbNBGRW9/renderscale-1.4.0-alpha.5-neoforge%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "5a11bb7120f02e065e73ae471addd89b20f4fbf294a1199f89b35f33abc689e8c322d55cd5c3ec8d2dee071b24d7ceb89141e71fd459db99d56af563823f44e6"
+
+[update]
+[update.modrinth]
+mod-id = "Va8PJBFX"
+version = "TbNBGRW9"
