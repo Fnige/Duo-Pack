@@ -1,0 +1,12 @@
+{
+  "client": {
+    "mixinClassNames": [],
+    "targetClassNames": []
+  },
+  "common": {
+    "mixinClassNames": [
+		"com.possible_triangle.dye_the_world.mixins.ChalkMixin"
+	],
+    "targetClassNames": []
+  }
+}

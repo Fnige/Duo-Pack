@@ -85,6 +85,10 @@ file = "config/mixed_litter-startup.toml"
 hash = "800b25a803f416531dfec28d27bdacd700bbdfa5e0e06161a334f5c0017f5904"
 
 [[files]]
+file = "config/mixinblacklist.json"
+hash = "45ff679b1367bc5cf97a9835f449deac38f8b33a751a1d4d7f26b43b7fb9db3f"
+
+[[files]]
 file = "config/pehkui-server.toml"
 hash = "e9b7a47a7b9b2994c66401fcd13d7b5606009d2d4dedefc04d02eab4e4e982d9"
 
@@ -1393,6 +1397,11 @@ hash = "a484da63b95e2e9992a741bc17f31d44baf566e7dc0edd78a38e9a97c8d2e73f"
 metafile = true
 
 [[files]]
+file = "mods/mixin-blacklist.pw.toml"
+hash = "0919f87ae3c694631256e580315460b6b70d6683eec9749869fe0d477b031589"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "724b5f22ab51c24880dedc363ae4f87fd76855a9cbf81732cf45c17f092159f3"
 metafile = true
@@ -1600,11 +1609,6 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "9a94f2e57b081963d11a33a9be6435046bfb8720defac9d2cced4d37b3db7299"
-metafile = true
-
-[[files]]
-file = "mods/renderscale.pw.toml"
-hash = "e6c9275c0f97b968ea2e4bb7f7c0a60a1d41270713a83060ed153ee9b052e1af"
 metafile = true
 
 [[files]]
