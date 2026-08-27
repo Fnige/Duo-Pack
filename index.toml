@@ -1477,6 +1477,11 @@ hash = "e2ff10979a12fe1cc0fa988201dd6e794352bc1e642dc886291c526d4631bd78"
 metafile = true
 
 [[files]]
+file = "mods/no-enderman-grief.pw.toml"
+hash = "3349a217141d1587f6ef03baf8cdd106ada041a8fce0972f1955781b320c0a33"
+metafile = true
+
+[[files]]
 file = "mods/no-mans-land.pw.toml"
 hash = "55b4c00d59cfe0e2677157d41fb900e0e45fa8facb2aa7782af7070c3ecfd1aa"
 metafile = true
