@@ -228,6 +228,11 @@ hash = "82a03261a6006cda13232610752623abf41552203e26309f4e899de8ad87ace4"
 metafile = true
 
 [[files]]
+file = "mods/always-eat.pw.toml"
+hash = "747d696d13d346ecc53ce28d90f3c85f5be78b90a16ed8e0f5943255c220bf9c"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "176c819c0421ebaeea291713232e921d9cdd83753348c97bc7ba9237c5c15912"
 metafile = true
@@ -1324,6 +1329,11 @@ metafile = true
 [[files]]
 file = "mods/leave-my-bars-alone.pw.toml"
 hash = "6fc46d72336be11582b933177410f6e0e1e89c5464e19a1885c5ce80738b01c5"
+metafile = true
+
+[[files]]
+file = "mods/let-me-feed-you.pw.toml"
+hash = "710aceee1b9896d40fbba7da87d8f14cca0b29d32a75ad85abeab9f64d6b384a"
 metafile = true
 
 [[files]]

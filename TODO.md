@@ -21,3 +21,4 @@
 - conflicting lead recipe
 	- do you want one lead or two?
 - readd refined radiance and shadow steel (create)
+- Conversion recipe between 4 Bread Slice (Some Assembly Required) and 3 Bread Slice (Create: Food)
