@@ -2,6 +2,7 @@
 	- add minecart to relevent tag
 - figure out what causes the game to reload chunks when typing/scrolling in the inventory/emi
 	- Probably PFM but idk what to do about that
+- Make the civilis configuration datapack
 
 # im so sorry dye the world
 - check up on dye the world to see if bits n bobs support is added https://modrinth.com/mod/dye-the-world
@@ -15,10 +16,24 @@
 - https://github.com/lucalabs-de/FairyLightsFabric/issues/31
 - https://github.com/PssbleTrngle/DyeTheWorld/issues/224
 
-# kubejs
+# KubeJS
 
-- deal with multiple cobblestone bricks
+## Conversion Recipes
+- Apple Slice Recipes (FD Cutting)
+	- Ratatouille Fried Delights, Create: Food, Some Assembly Required
+- Bread Slice Recipes (FD Cutting)
+	- Create: Food, Some Assembly Required
+- Cobblestone Bricks Recipes (Crafting)
+	- Desire, No Mans Land, Quark
+
+## Other Recipes
 - conflicting lead recipe
 	- do you want one lead or two?
 - readd refined radiance and shadow steel (create)
-- Conversion recipe between 4 Bread Slice (Some Assembly Required) and 3 Bread Slice (Create: Food)
+
+## Tooltips
+- Add ranges to the Warding Effigy
+	- 1 -> 24 Blocks
+	- 2 -> 44 Blocks
+	- 3 -> 60 Blocks
+	- 4 -> 72 Blocks
