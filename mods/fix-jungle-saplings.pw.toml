@@ -1,0 +1,13 @@
+name = "Fix Jungle Saplings"
+filename = "fix-jungle-saplings-1.0.1+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7rDHEkYZ/versions/Rr7KVR85/fix-jungle-saplings-1.0.1%2B1.21.jar"
+hash-format = "sha512"
+hash = "ed9f682575ad1a8021ab880ac112134e1fc9b9052620c0a92944506a4769b5255ec1918593cf1b0b64fe8b9a8fa74819de288df25b41fbb332dbb4ac556309d0"
+
+[update]
+[update.modrinth]
+mod-id = "7rDHEkYZ"
+version = "Rr7KVR85"
