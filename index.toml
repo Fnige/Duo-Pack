@@ -1217,11 +1217,6 @@ hash = "48b746cb623c16a8cee88ec0d7d42233d74d97b9cf92d662f121633723d50876"
 metafile = true
 
 [[files]]
-file = "mods/improved-multishot.pw.toml"
-hash = "1ddf5bd2c157dc32933e3300468456a8734801075bd101b2e6b708b051cbab4b"
-metafile = true
-
-[[files]]
 file = "mods/improved-village-placement.pw.toml"
 hash = "d4643e7fd8fd1227500f19e6011b33b10ef09a543adccd790345f91f3d3fcff8"
 metafile = true

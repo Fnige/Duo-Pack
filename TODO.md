@@ -3,6 +3,10 @@
 - figure out what causes the game to reload chunks when typing/scrolling in the inventory/emi
 	- Probably PFM but idk what to do about that
 - Make the civilis configuration datapack
+- Enchanting shenanigans
+	- Whats making Infinity limit at 3 instead of 1
+	- Whats making Mending limit at 3 instead of 1
+	- Whats making Power limit at 3 instead of 5
 
 # im so sorry dye the world
 - check up on dye the world to see if bits n bobs support is added https://modrinth.com/mod/dye-the-world
