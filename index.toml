@@ -233,6 +233,11 @@ hash = "747d696d13d346ecc53ce28d90f3c85f5be78b90a16ed8e0f5943255c220bf9c"
 metafile = true
 
 [[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "92a2077fb3d27df20550d579d14c43b1feaa605796b217efb7a9d4bdd727f3bf"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "176c819c0421ebaeea291713232e921d9cdd83753348c97bc7ba9237c5c15912"
 metafile = true
