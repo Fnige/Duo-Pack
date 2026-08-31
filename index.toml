@@ -85,10 +85,6 @@ file = "config/mixed_litter-startup.toml"
 hash = "800b25a803f416531dfec28d27bdacd700bbdfa5e0e06161a334f5c0017f5904"
 
 [[files]]
-file = "config/mixinblacklist.json"
-hash = "45ff679b1367bc5cf97a9835f449deac38f8b33a751a1d4d7f26b43b7fb9db3f"
-
-[[files]]
 file = "config/pehkui-server.toml"
 hash = "e9b7a47a7b9b2994c66401fcd13d7b5606009d2d4dedefc04d02eab4e4e982d9"
 
@@ -289,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "4d0bfa634944e979d4b1f0776d98d092b598f98bb4e48f5af418069b64ec9720"
+hash = "af5bc55ea66d0e71f85b1f8966e24f1f58d8043e94ed0e89eb52deda43770016"
 metafile = true
 
 [[files]]
@@ -304,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/azimuth-api.pw.toml"
-hash = "f10e1dfe7b0df6c00ce1ddad9d6fcf1d1654a022d71f40389d8e553f6970c27b"
+hash = "382d7eb9e95beb4224fdb16e6781604c0f12d49ba3b900b323b1cb0ffabec13a"
 metafile = true
 
 [[files]]
@@ -549,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/construction-sticks.pw.toml"
-hash = "8cd114b8f192317396e198af0c0fe3a5832691721f940716469eb721bbaceab2"
+hash = "bbaa507f7bf75d33bf14b6bbfd62a58590ff47eef12060b635d87635d9f8cec4"
 metafile = true
 
 [[files]]
@@ -629,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "d438d05c61167c95de2b282bb3839a290f819f70c9d313c5e61177d69a29c704"
+hash = "3b8895369640b2a52d3e05f7186185ba6798e44d513f11c5427a0fe9c16769e9"
 metafile = true
 
 [[files]]
@@ -644,7 +640,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-bits-n-bobs.pw.toml"
-hash = "31d25e9c5d15cd09f845d94dd4df51b1fbd641fb07737e80a46afdd367984f7b"
+hash = "802dcf0b48389879bf68ff5aa26642933dd83427bbb80c0e4b3352b2cab324d0"
 metafile = true
 
 [[files]]
@@ -674,7 +670,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
+hash = "6ac362d60bc8b13e03a5b6b9cdf9c7676f65d3e89e87c66f18514e7ee164cdb0"
 metafile = true
 
 [[files]]
@@ -714,7 +710,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-enchantment-industry.pw.toml"
-hash = "a7fd8286646b1d7ae52507c6ccfa7767389803f30e5f891c59d26c1463808e59"
+hash = "b8ba73d545a0deb9716610ebd1e6fb1cb6c4eae3f234aa7c1e43105eff0d4bc6"
 metafile = true
 
 [[files]]
@@ -959,7 +955,7 @@ metafile = true
 
 [[files]]
 file = "mods/dye-the-world.pw.toml"
-hash = "4603da0fa00208533b55e17353624c9dcf33bee9410aee69567330e03875ab68"
+hash = "e32936eb19cd84998d3f0693de1a3279b583377113b13b633959c032f32fc433"
 metafile = true
 
 [[files]]
@@ -1083,7 +1079,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "7f837101645afe275564c75605e3950352db2e3dc18e0ebcf7460bac272afde4"
+hash = "97347efd9e808841d72fe3599da8a11add8422e97f89ae1c85cdfc0acfa18f96"
 metafile = true
 
 [[files]]
@@ -1248,7 +1244,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade-addons-forge.pw.toml"
-hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
+hash = "6fd64a8c68d2935cbc62ca4346be2d3b702c05bc231f7bbb436bc3a4d8ab70e8"
 metafile = true
 
 [[files]]
@@ -1268,7 +1264,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "17ed80a0fb8716e279cb04664a7038cfa659f878e51915b61fcd7dd35a7920be"
+hash = "fad5f139a9d3f6678b599d1539f0769a5ebe1d9673201a120566ea37c45b9155"
 metafile = true
 
 [[files]]
@@ -1328,7 +1324,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
+hash = "ebf0dae777cc19c354a662dc8144009dff7269b2d05624b4591fcb7de56fc14e"
 metafile = true
 
 [[files]]
@@ -1443,7 +1439,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "6d3ff3b7bbcc97fa06bdddcf2b3b7646168497ba6d7104bdea376f1bc65f9a93"
+hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
 metafile = true
 
 [[files]]
@@ -1598,7 +1594,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
+hash = "ac245e55621b2c36689db9068a9c6bfd01f98b89c66e344399a4a5a9fca209be"
 metafile = true
 
 [[files]]
@@ -1852,7 +1848,7 @@ metafile = true
 
 [[files]]
 file = "mods/starcatcher.pw.toml"
-hash = "e4ecf1988c8874004f6ff2312c06e3fc2291e14c8487b05b5386c82eb056963c"
+hash = "f4173b55ea59615b0c2934dee5b4e6f24488924c112c6a31bfda75511dd8c462"
 metafile = true
 
 [[files]]
@@ -1887,12 +1883,12 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "45e4281b8a230daad7484b17eda0caa7fd803b94fc373fe92fcf9bf34f61ec55"
+hash = "0c83b0949ea4bdde722335964979654ed3e79f74261e7b3e0076e3d1e544d89a"
 metafile = true
 
 [[files]]
 file = "mods/sushigocrafting.pw.toml"
-hash = "35fe45dbe992cb418145565d1193bf0694d548dce5dcd5222a57d99a69d3a8eb"
+hash = "01133a6cfaf3ce9d0e325cdb7721c1412b1ab9ddfb506f622e2fa890ad00b568"
 metafile = true
 
 [[files]]
@@ -1927,7 +1923,7 @@ metafile = true
 
 [[files]]
 file = "mods/titanium.pw.toml"
-hash = "5b6a8b957c193e3433593c71b2e397698c5216cce763ee973e60b1f48d79a052"
+hash = "e697bd3a78edee29ae0bdfbf3cd4261dcbe4517ffb5ef84851e4cc0abcbda7e1"
 metafile = true
 
 [[files]]
@@ -1942,7 +1938,7 @@ metafile = true
 
 [[files]]
 file = "mods/torchmaster.pw.toml"
-hash = "23ea2c32834281723c63d45ffe42969172492d36309755a46bc47154c3014b3f"
+hash = "dea96f4956b6b6d37da8da7d1e4808fcbdccc41d8c775112a3a6206096d3a50e"
 metafile = true
 
 [[files]]
