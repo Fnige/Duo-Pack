@@ -29,6 +29,9 @@
 - Cobblestone Bricks Recipes (Crafting)
 	- Desire, No Mans Land, Quark
 
+## Create Recipes
+- Stone -> Cobblestone Crushing recipe
+
 ## Other Recipes
 - conflicting lead recipe
 	- do you want one lead or two?
