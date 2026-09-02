@@ -797,6 +797,11 @@ hash = "8205f415e163e4e5f70a997d17e68bc8d71758e081307a78837b9d41010846ab"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation-better-finder.pw.toml"
+hash = "6cc0c27d524cf582bedd12e5ecad520ce83db15a69a511fdfa8f2ec66105ef14"
+metafile = true
+
+[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "10d3389f72e8e8f78518f5b6786ccec4e62dbad117491d2970e8e1f75e390251"
 metafile = true
@@ -1383,6 +1388,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "35725a7bee95c5f0df1eeccd3ed406036c35fae26a7d7864fae1127a85957fdb"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "9b32e1374a3d85ccdd4803c8932f72fbeb6357e69d895980e3f24e1974a07ca6"
 metafile = true
 
 [[files]]
